@@ -1,0 +1,17 @@
+Evidência da execução — Exercício 11.1
+
+Comando: mvn test
+Projeto: Connectivity Forecast API 1.0.0
+Java: 22.0.1 (compilação com release 17)
+
+Resultados por classe:
+- ApiContractTest: 2 testes, 0 falhas, 0 erros, 0 ignorados
+- ModelServiceTest: 1 teste, 0 falhas, 0 erros, 0 ignorados
+- QualityClassifierTest: 5 testes, 0 falhas, 0 erros, 0 ignorados
+
+Total: 8 testes, 0 falhas, 0 erros, 0 ignorados
+Resultado final: BUILD SUCCESS
+Código de saída: 0
+Tempo total informado pelo Maven: 12.679 s
+
+Observação: foram exibidos avisos do Mockito/Java sobre carregamento dinâmico de agente; a execução foi concluída com sucesso.
